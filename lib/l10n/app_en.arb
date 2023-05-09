@@ -1,0 +1,16 @@
+{
+    "profileTitle": "Curriculum vitae",
+    "name":"Ahmadreza Ahmadzadeh",
+    "job": "Product & Product Disigner",
+    "location": "Mashhad , Iran",
+    "summary":"I am an IT professional with over 4 years of computer programming experience. In my current role as Computer Programmer for Technical Services I work daily to utilize computer programming language in the development of a number of technical projects and assignments.",
+    "selectedLanguage":"Selected Language",
+    "enLanguage":"English",
+    "faLanguage":"Farsi",
+    "skills":"Skills",
+    "personalInformation":"Personal Information",
+    "email":"Email",
+    "password":"Password",
+    "save":"Save"
+
+}
